@@ -1,0 +1,13 @@
+# Current task
+- [x] Remove visible provider/model identities throughout the site and check the reported isExpanded diagnostic.
+- [x] Verify question, evidence, history, evaluation and dataset controls; record remaining verification limits in chat.md.
+- [x] Refresh shared design and COVID-first question/results screens; simplify visible technical labels without hiding provenance.
+- [x] Check reported userData diagnostic, run tests, verify results on desktop and mobile, update chat.md.
+- [x] Connect COVID / School selection to Ask & Verify, Health, Contract and Evaluation.
+- [x] Add real COVID evaluations, inference reporting and browser verification.
+- [x] Extend Proof Card safeguards, attack tests, follow-ups, schema-change clarification and final SQL stopping.
+- [x] Add server-enforced shared-approval roles without changing public upload access.
+- [ ] Verify authenticated role flow — blocked: no auth account or assigned role exists.
+- [ ] Confirm arbitrary renamed-table mappings — blocked: needs actual education schema and metric definitions.
+- [ ] Integrate the owner's education dataset — blocked: no education data file supplied.
+- [x] Verify tests and update chat.md.
